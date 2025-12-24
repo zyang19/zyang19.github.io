@@ -1,0 +1,43 @@
+- name: HKUST RedBird Academic Excellence Award
+  years: 2023
+  description: An award in recognition of the outstanding performance and research capacity of the students
+- name: HKUST RedBird Academic Excellence Award
+  years: 2022
+  description: An award in recognition of the outstanding performance and research capacity of the students
+- name: IEEE VIS Honorable Mention Award
+  years: 2021
+  description: "For \"*[VBridge: Connecting the Dots Between Features and Data to Explain Healthcare Model](https://www.furuicheng.tech/project/vbridge/)*\""
+  id: noneed
+- name: ChinaVis Best Paper Nomination
+  years: 2021
+  description: "For \"*[Modeling layout design for multiple-view visualization via Bayesian inference](https://lingdan33.github.io/bayesmvlayout/)*\""
+  id: noneed
+- name: "[Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)"
+  years: 2020-2024
+  link: https://cerg1.ugc.edu.hk/hkpfs/index.html
+  description: Highly competitive scholarship for the best and brightest students in the world to pursue their PhD studies in Hong Kong's universities
+  id: noneed
+- name: National scholarship and First-class scholarship
+  years: 2016-2018 (3 consecutive years)
+  description: For top 2% students
+  id: needtochange
+- name: Third prize in the south race area
+  years: 2018
+  description: For the 17th National College Student robot contest
+  id: noneed
+- name: Meritorious Winner
+  years: 2018
+  description: For 2018 American Mathematical Contest In Modeling
+  id: noneed
+- name: Second-class Prize in Guangdong
+  years: 2018
+  description: For Contemporary Undergraduate Mathematical Contest In Modeling
+  id: noneed
+- name: Second-class Prize in Guangdong
+  years: 2017
+  description: For the 14th Challenge Cup, the extracurricular academic and technological works competition for Guangdong college students
+  id: noneed
+- name: Honorable Mention
+  years: 2017
+  description: For 2017 American Mathematical Contest In Modeling
+  id: noneed

@@ -1,0 +1,72 @@
+html, body {
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	height: 100%;
+	overflow: hidden;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	color: #000;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+#canvas {
+	margin: 0px;
+	padding: 0px;
+	display: block;
+	position: absolute;
+	background-color: #fcfcfc;
+	width: 100%;
+	height: 100%;
+}
+
+#wrap {
+	min-height: 100%;
+    pointer-events: visible;
+}
+
+#main {
+    top: 5%;
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+}
+
+#footer {
+    bottom: 5%;
+    width: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -250px;
+}
+
+.bold-title-text {
+	font-size: 18pt;
+	font-weight: 900;
+}
+
+.smaller-title-text {
+	font-size: 16pt;
+	font-weight: 400;
+}
+
+
+.description {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 9pt;
+}
+
+
+.code-text {
+	font-family: 'Source Code Pro', sans-serif;
+	font-size: 11pt;
+}

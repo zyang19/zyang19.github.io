@@ -1,0 +1,91 @@
+#publication .major-title {
+    margin-bottom: 5vh;
+}
+.extra-links {
+    a {
+        margin-right: 1vw;
+        font-size: 1rem;
+    }
+    
+}
+.publication {
+    margin-bottom: 5vh;
+    display: flex;
+    .thumbnail {
+        position: relative;
+        min-width: 15vw;
+        overflow: hidden;
+        display: flex;
+        justify-content: center; 
+        align-items: center;
+        img {
+            width: 15vw;
+            min-width: 15vw;
+            border-radius: 5px;
+            background-color: white;
+            -webkit-transition: all .5s;
+            -moz-transition: all .5s;
+            -o-transition: all .5s;
+            transition: all .5s;
+        }
+        margin-right: 2vw;
+    }
+    .thumbnail:hover img, .thumbnail:focus img {
+        -ms-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        -o-transform: scale(1.2);
+        transform: scale(1.2);
+    }
+    .publication-content {
+        display: block;
+        h3 {
+            font-size: 1.1rem;
+            font-family: 'Source Sans Pro', 'Open Sans', 'Times New Roman', serif;
+        }
+        .authors {
+            line-height: 1.1;
+            margin-bottom: 5px;
+            color: black;
+            font-weight: 100;
+            a {
+                color: $dark-gray;
+                &:hover {
+                    color: $highlight;
+                }
+            }
+        }
+        .author_me{
+            font-weight:bold;
+        }
+
+        .venue {
+            line-height: 1.1;
+            margin-bottom: .4rem;
+            color: $slight-dark-gray;
+        }
+    }
+}
+
+
+@media (max-width: 700px) {
+    .publication {
+      display: block;
+    //   border: $gray solid 1px;
+      border-radius: 0.5rem;
+      padding: 1rem;
+      box-shadow: 0 .2rem .5rem #00000026!important;
+      .publication-content h3 {
+        font-size: 1.02rem;
+      }
+      .thumbnail {
+        margin-bottom: 5px;
+        text-align: center;
+        margin-right: 0;
+
+        img {
+            width: 70%;
+        }
+      }
+     }
+}

@@ -1,0 +1,5 @@
+<li>
+  <span class="award_name"> {{ award.name | markdownify | remove: '<p>' | remove: '</p>' }} </span>
+  <span class="award_des"> {{award.description | markdownify}}</span>
+  <time>{{ award.years }}</time>
+</li>

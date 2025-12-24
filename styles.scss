@@ -1,0 +1,72 @@
+---
+---
+
+@charset "utf-8";
+
+// Our variables
+$base-font-family: Source Sans Pro, Open Sans, Times New Roman, serif;
+$base-font-size:   100%;  // 16px by default
+$small-font-size:  0.9rem;
+$base-line-height: 1.64;
+
+$spacing-unit:     32px;
+$content-width:    800px;
+
+$text-color:        #414141;
+$dark-text-color:   #333;
+$background-color:  #fff;
+$brand-color:       #714288;
+$yellow-color:      #ffc000;
+$link-color:        #714288;
+$header-background: #ececec;
+$footer-background: #48107a;
+$footer-text:       darken(#fff, 10%);
+
+$grey-color:       #6b6b6b;
+$grey-color-lightest: #f8f8f8;
+$grey-color-dark:  darken($grey-color, 15%);
+$grey-color-light:  lighten($grey-color, 15%);
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+$dark-gray: #404040;
+$highlight: #714288; //#0085A1;
+$slight-dark-gray: #6e6e6e;
+$extreme-light-gray: #ECEDF2;
+$super-light-gray: #f3f7fd;
+$gray: #c0bebe;
+.navbar-custom {
+    // background-color: black;
+
+}
+.nav-link {
+    &.active {
+        color: $highlight !important;
+    }
+}
+
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+  "base",
+  "layout",
+  "nav",
+  "footer",
+  "headings",
+  "home",
+  "publications",
+  "projects",
+  "talks",
+  "blog",
+  "syntax-highlighting",
+  "cv",
+  "publicationsonhome"
+;

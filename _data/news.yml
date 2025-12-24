@@ -1,0 +1,88 @@
+- message: "💰 Our project—on which I am a co-I, with Prof. [Wei Zeng](https://zeng-wei.com) as the PI, has been awarded RMB 500,000 by the National Natural Science Foundation of China (NSFC) General Program to support Intelligent Multi-View Visualization Generation with LLMs!"
+  date: 2025-08-27
+- message: "🎉 Our paper [\"DataWink: Reusing and Adapting SVG-based Visualization Examples with Large Multimodal Models\"]() is accepted by IEEE VIS'25! Congrat. to [Liwenhan Xie](https://shellywhen.github.io)!"
+  date: 2025-07-15
+- message: "🎉 Our paper [\"Unmasking Deceptive Visuals: Benchmarking Multimodal Large Language Models on Misleading Chart Question Answering\"]() is accepted by EMNLP'26! Congrat. to [Zixin Chen](https://cinderd.github.io)!"
+  date: 2025-07-15
+- message: "🎉 Our paper [\"RhythmTA: a Visual-aided Interactive System for ESL Rhythm Training via Dubbing Practice\"]() is accepted by UIST25! Congrat. to [Chang Chen](https://cerachen.github.io/changchen.github.io/)!"
+  date: 2025-07-04
+- message: "🎉 Our paper [\"InterLink: Linking Text with Code and Output in Computational Notebooks\"](https://arxiv.org/abs/2502.16114) is accepted by CHI25!"
+  date: 2025-03-01
+- message: "💰 Our research proposal LLM-Driven Curriculum Design and Talent Development was awarded about 600K HKD by the JC-AI Research Scheme (HKUST & EduHK)!"
+  date: 2025-01-01
+- message: "🎉 Our paper [\"GVVST: Image-Driven Style Extraction from Graph Visualizations for Visual Style Transfer\"](https://ieeexplore.ieee.org/document/10734252) is accepted by TVCG!"
+  date: 2024-10-21
+- message: "🎉 Start my journey as Postdoc in VisLab."
+  date: 2024-10-02
+- message: "🎉 Passed my PhD Defense!"
+  date: 2024-08-22
+- message: "🏅️ Received HKUST RedBird Academic Excellence Award (2024)"
+  date: 2024-07-08
+- message: "Finished visiting at CMU. Very thanks to Prof. Dominik Moritz!"
+  date: 2024-04-16
+- message: "Visiting Prof. Dominik Moritz at CMU."
+  date: 2024-01-10
+- message: "Finished VIS24 submission!"
+  date: 2024-04-01
+- message: "Busy for VIS24 submission!"
+  date: 2024-01-01
+- message: "🎉 Our paper [\"VIOLET: Visual Analytics for Explainable Quantum Neural Networks\"](https://arxiv.org/abs/2307.07922) is accepted by PacificVis24 TVCG Track! Congrat. to [Shaolun Ruan](https://shaolun-ruan.com)!"
+  date: 2023-12-23
+- message: "🎉 Our IEEE VIS'23 paper [\"InkSight: Leveraging Sketch Interaction for Documenting Chart Findings in Computational Notebooks\"](https://arxiv.org/abs/2307.07922) is accepted!"
+  date: 2023-07-16
+- message: "🏅️ Received HKUST RedBird Academic Excellence Award (2023)"
+  date: 2023-06-13
+- message: "🎉 Our EuroVIS'23 paper [\"VENUS: A Geometrical Representation for Quantum State Visualization\"](../assets/pdf/2023-Eurovis-Shaolun-VENUS.pdf) is accepted!"
+  date: 2023-04-01
+- message: "🎉 Our TVCG'23 paper [\"DMiner: Dashboard Design Mining and Recommendation\"](../assets/pdf/Draft_revised.pdf) is to appear!"
+  date: 2023-02-27
+- message: "Finished an intern of Singapore Management University, supervised by Prof. [Wang Yong](https://yong-wang.org)"
+  date: 2022-09-30
+- message: "Our proposal on analyzing visualizations is funded with HKD 1M by HK RGC!"
+  date: 2022-09-21
+- message: "Finished the job of becoming a PC member for CIKM 2022"
+  date: 2022-08-01
+- message: "🏅️ Received HKUST RedBird Academic Excellence Award (2022)"
+  date: 2022-06-01
+- message: "🎉 Our CAG'2022 Paper [\"Saliency-aware color harmony models for outdoor signboard\"](../assets/pdf/saliency.pdf) is accepted!"
+  date: 2022-04-22
+- message: "Finished the IEEEVIS'22 submission"
+  date: 2022-04-01
+- message: "🎉 Our VR'2022 poster [\"Let Every Seat Be Perfect! A Case Study on Combining BIM and VR for Room Planning\"](https://haotian-li.com/paper/vr-bim.pdf) is to appear!"
+  date: 2022-03-12
+- message: "🎉 Passed PQE and became a Ph.D. candidate"
+  date: 2021-11-15
+- message: "Struggle for my Ph.D. Qualifying Exam(PQE)"
+  date: 2020-10-27
+- message: "🎉 Our IEEE VIS'21 Paper [\"VBridge: Connecting the Dots Between Features and Data to Explain Healthcare Models\"](https://www.furuicheng.tech/project/vbridge/) get the Best Paper Honorable Mention Award"
+  date: 2021-10-07
+- message: "Returned to HK, and start my new Life in HKUST"
+  date: 2021-08-31
+- message: "🎉 Our ChinaVis'21 Paper [\"Modeling layout design for multiple-view visualization via Bayesian inference\"](https://lingdan33.github.io/bayesmvlayout/) get the Best Paper Honorable Mention Award"
+  date: 2021-06-01
+- message: "Finished the one-and-a-half-year intern"
+  date: 2021-08-23
+- message: "Became an intern of Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, supervised by Prof. [Zeng Wei](https://zeng-wei.com)"
+  date: 2019-12-01
+- message: "Start my new journey of Ph.D. in HKUST, under the supervision of Prof. [Huamin Qu](http://www.huamin.org)."
+  date: 2020-09-01
+- message: "Got the Hong Kong Ph.D. Fellowship Scheme (HKPFS)"
+  date: 2020-04-08
+- message: "Got a Bachelor's Degree from Sun Yat-Sen University"
+  date: 2019-07-12
+# - message: "I passed my general exam and am now a PhD candidate."
+#   date: 2018-08-22
+# - message: "[Draco](https://uwdata.github.io/draco/) receives the best paper award at InfoVis 2018."
+#   date: 2018-07-21
+# - message: "I am organizing the [DSIA Workshop](https://www.interactive-analysis.org) at VIS 2018 in Berlin."
+#   date: 2018-04-09
+# - message: "Vega-Lite is featured by [Nature](https://www.nature.com/articles/d41586-018-01322-9?utm_source=twt_nnc&utm_medium=social&utm_campaign=naturenews&sf180719177=1) as a visualization tool for interactive and reproductible publishing."
+#   date: 2018-01-30
+# - message: "Vega-Lite 2.1 released with support for geographic maps."
+#   date: 2018-01-26
+# - message: "Vega-Lite is used for [illustrations](https://makingdatavisual.github.io/figurelist.html) in \"Making Data Visual\" by Danyel Fisher and Miriah Meyer."
+#   date: 2018-01-24
+
+
+
+

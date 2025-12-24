@@ -1,0 +1,23 @@
+- university:  Hong Kong University of Science and Techonology
+  years: 2020-2024
+  degree: Ph.D. in Computer Science & Engineering
+  location: Hong Kong, China
+  description:
+    - Advised by Prof. **Huamin Qu**
+    # - "Thesis: \"Interactive Systems for Scalable Visualization & Analysis\"."
+    - Member of the [VisLab](http://vis.cse.ust.hk)
+- university: Sun Yat-sen University
+  years: 2015-2019
+  degree: B.S. in Software Engineering
+  location: Guangdong, China
+  description:
+    - "GPA: 4.4/5.0, highest distinction, rank 1/447"
+    - Member of Yixian Lion team
+# - university: Hasso Plattner Institute
+#   years: 2010-2013
+#   degree: B.S. in IT-Systems Engineering
+#   location: Potsdam, Germany
+#   description:
+#     - "Thesis: \"Algorithms for the Visualization of Software System Evolution\"."
+#     - "GPA: 4.0 (1.0 in German system), highest distinction, rank 1/74"
+#     - Advanced classes on database implementation, computational geometry, architecture, and logic.
