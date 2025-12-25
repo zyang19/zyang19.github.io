@@ -9,7 +9,7 @@ class: home
 
 <div class="columns" markdown="1">
 
-# Hi, I'm Yanna Lin
+# Hi, I'm Zhaocong Yang
 
 </div>
 
@@ -17,14 +17,11 @@ class: home
 
 <div class="intro" markdown="1">
 
-I am a Postdoctoral Researcher at the University of Waterloo, working with [Prof. Jian Zhao](https://www.jeffjianzhao.com) in the [WVisdom research lab](https://www.jeffjianzhao.com/team).
+I am a final-year PhD Candidate in Department of Computer Science at the University of North Carolina at Charlotte, under the supervision of [Prof. Jing Yang](https://cci.charlotte.edu/directory/jing-yang/). My research interests include the intersection of visual analytics, human–agent collaboration, and Artificial Intelligence, with a particular focus on designing interactive systems that help people reason about complex data and models. My research explores how visualization and intelligent agents (e.g., recommendation systems and large language models) can work together to support sensemaking, decision-making, and exploratory analysis.
 
-Before joining Waterloo, I worked as a Postdoctoral Researcher and obtained my Ph.D. in Computer Science and Engineering from the Hong Kong University of Science and Technology (HKUST), under the supervision of [Prof. Huamin Qu](http://www.huamin.org) in the [VisLab](http://vis.cse.ust.hk). 
-My Ph.D. was supported by the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html) and recognized with the [HKUST RedBird Academic Excellence Award](https://fytgs.hkust.edu.hk/admissions/Admission-to-Hong-Kong-Campus/submitting-an-application/scholarships-and-fees) for three consecutive years.
-I earned my Bachelor’s Degree in Software Engineering from Sun Yat-sen University, ranked 1/447.
-During my undergraduate studies, I was honored with the National Scholarship for three consecutive years (top 0.5%).
+Before starting my PhD, I earned my Bachelor’s and Master's Degrees in Computer Science and Mathematics & Statistics from the University of North Carolina at Charlotte, where I was dual-enrolled with Early-Enrty Master in Computer Science program. 
 
-My research interests include data visualisation and human-AI collaboration. I focus on designing intuitive interfaces and developing algorithms to enhance data communication and analysis, and facilitate data-driven decision-making.
+In parallel with my academic research, I have worked as a research intern at Toyota Racing Development USA, where I developed visual analytics tools to support aerodynamic analysis and engineering decision-making. I am passionate about building systems that bridge theory and practice, enabling domain experts to better understand data and models in real-world settings. 
 
 
 <span style="background-color:#f4ecfc; font-weight: bold;">I am on the job market. Please contact me if you have any relevant positions or opportunities:) </span>
@@ -36,7 +33,7 @@ My research interests include data visualisation and human-AI collaboration. I f
   <source srcset='/images/lala4.1.JPG' type='image/webp' />
   <img
     src='/images/lala4.1.JPG'
-    alt='Yanna Lin'>
+    alt='Zhaocong Yang'>
 </picture>
 
 {:.no-list}

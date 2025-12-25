@@ -1,22 +1,42 @@
-- title: "COMP 4631: Computer and Communication Security"
-  location: HKUST
-  role: Teaching Assistant
-  year: 2021 Spring
-  description: Teaching Assistant for Prof. Cunsheng Ding
-- title: "COMP 4631: Computer and Communication Security"
-  location: HKUST
-  role: Teaching Assistant
-  year: 2021 Fall
-  description: Teaching Assistant for Prof. Cunsheng Ding
-- title: "Principle of Computer Network"
-  location: SYSU
-  role: Teaching Assistant
-  year: 2018 Fall
-  description: Teaching Assistant for Prof. Haibo Tian
+# - title: "COMP 4631: Computer and Communication Security"
+#   location: HKUST
+#   role: Teaching Assistant
+#   year: 2021 Spring
+#   description: Teaching Assistant for Prof. Cunsheng Ding
+# - title: "COMP 4631: Computer and Communication Security"
+#   location: HKUST
+#   role: Teaching Assistant
+#   year: 2021 Fall
+#   description: Teaching Assistant for Prof. Cunsheng Ding
+# - title: "Principle of Computer Network"
+#   location: SYSU
+#   role: Teaching Assistant
+#   year: 2018 Fall
+#   description: Teaching Assistant for Prof. Haibo Tian
 
-- title: "Circuits and Electronics"
-  location: SYSU
-  role: Teaching Assistant
-  year: 2017 Fall
-  description: Teaching Assistant for Prof. Chaodong He
+# - title: "Circuits and Electronics"
+#   location: SYSU
+#   role: Teaching Assistant
+#   year: 2017 Fall
+#   description: Teaching Assistant for Prof. Chaodong He
 
+- title: "ITCS 3156: Introduction to Machine Learning"
+  location: UNC Charlotte
+  role: Instructor
+  year: 2025 Summer
+  description: Course Instructor of Record
+- title: "ITCS 4122/5122: Visual Analytics"
+  location: UNC Charlotte
+  role: Instructor
+  year: 2024 Spring
+  description: Course Instructor of Record
+- title: "ITCS 4122/5122: Visual Analytics"
+  location: UNC Charlotte
+  role: Teaching Assistant
+  year: 2021 - 2023
+  description: Developed and presented tutorials on visualization tools, web development, and D3. Graded assignments, held office hours.
+- title: "ITSC 3181 & 3181L: Introduction to Computer Architecture"
+  location: UNC Charlotte
+  role: Teaching Assistant
+  year: 2019 - 2020
+  description: Lead lab instructor for computer architecture course. Prepared and presented lab material, graded assignments and exams, held office hours.
