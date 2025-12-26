@@ -1,18 +1,39 @@
-- university:  Hong Kong University of Science and Techonology
-  years: 2020-2024
-  degree: Ph.D. in Computer Science & Engineering
-  location: Hong Kong, China
+- university: University of North Carolina at Charlotte
+  years: 2021 - Present
+  degree: Ph.D. candidate in Computer Science
+  location: Charlotte, NC
   description:
-    - Advised by Prof. **Huamin Qu**
-    # - "Thesis: \"Interactive Systems for Scalable Visualization & Analysis\"."
-    - Member of the [VisLab](http://vis.cse.ust.hk)
-- university: Sun Yat-sen University
-  years: 2015-2019
-  degree: B.S. in Software Engineering
-  location: Guangdong, China
+    - Advised by Prof. <u>Jing Yang</u>
+- university: University of North Carolina at Charlotte
+  years: 2019-2021
+  degree: M.S. in Computer Science
+  location: Charlotte, NC
   description:
-    - "GPA: 4.4/5.0, highest distinction, rank 1/447"
-    - Member of Yixian Lion team
+    - Advised by Prof. <u>Jing Yang</u>
+    - Early Entry Master's Program
+- university: University of North Carolina at Charlotte
+  years: 2016-2020
+  degree: B.S. in Computer Science & Mathematics
+  location: Charlotte, NC
+  description:
+    - "Graduated **Cum Laude** with a double major in Computer Science and Mathematics."
+    - Relevant coursework: Machine Learning, Natural Language Processing, Computer Vision, Time Series Analysis, Applied Regression, Statistical Computing, etc
+
+# - university:  Hong Kong University of Science and Techonology
+#   years: 2020-2024
+#   degree: Ph.D. in Computer Science & Engineering
+#   location: Hong Kong, China
+#   description:
+#     - Advised by Prof. **Huamin Qu**
+#     # - "Thesis: \"Interactive Systems for Scalable Visualization & Analysis\"."
+#     - Member of the [VisLab](http://vis.cse.ust.hk)
+# - university: Sun Yat-sen University
+#   years: 2015-2019
+#   degree: B.S. in Software Engineering
+#   location: Guangdong, China
+#   description:
+#     - "GPA: 4.4/5.0, highest distinction, rank 1/447"
+#     - Member of Yixian Lion team
 # - university: Hasso Plattner Institute
 #   years: 2010-2013
 #   degree: B.S. in IT-Systems Engineering

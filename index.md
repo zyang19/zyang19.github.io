@@ -30,9 +30,9 @@ In parallel with my academic research, I have worked as a research intern at Toy
 
 <div class="me" markdown="1">
 <picture>
-  <source srcset='/images/lala4.1.JPG' type='image/webp' />
+  <source srcset='/images/zhaocong.png' type='image/webp' />
   <img
-    src='/images/lala4.1.JPG'
+    src='/images/zhaocong.png'
     alt='Zhaocong Yang'>
 </picture>
 
