@@ -7,17 +7,17 @@ class: home
 
 
 
-<div class="columns" markdown="1">
+<!-- <div class="columns" markdown="1">
 
 # Hi, I'm Zhaocong Yang
 
-</div>
+</div> -->
 
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
 
-I am a final-year PhD Candidate in Department of Computer Science at the University of North Carolina at Charlotte, under the supervision of [Prof. Jing Yang](https://cci.charlotte.edu/directory/jing-yang/). My research interests include the intersection of visual analytics, human–agent collaboration, and Artificial Intelligence, with a particular focus on designing interactive systems that help people reason about complex data and models. My research explores how visualization and intelligent agents (e.g., recommendation systems and large language models) can work together to support sensemaking, decision-making, and exploratory analysis.
+Hi, I'm Zhaocong Yang (杨兆聪), a final-year PhD Candidate in Department of Computer Science at the University of North Carolina at Charlotte, under the supervision of [Prof. Jing Yang](https://cci.charlotte.edu/directory/jing-yang/). My research interests include the intersection of visual analytics, human–agent collaboration, and Artificial Intelligence, with a particular focus on designing interactive systems that help people reason about complex data and models. My research explores how visualization and intelligent agents (e.g., recommendation systems and large language models) can work together to support sensemaking, decision-making, and exploratory analysis.
 
 Before starting my PhD, I earned my Bachelor’s and Master's Degrees in Computer Science and Mathematics & Statistics from the University of North Carolina at Charlotte, where I was dual-enrolled with Early-Enrty Master in Computer Science program. 
 
